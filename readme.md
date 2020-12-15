@@ -1,6 +1,6 @@
 # sexrch CLI
 
-A CLI for sexrch.
+A CLI for search through code files that uses LISP S-expression.
 
 ## Customizing your CLI
 
